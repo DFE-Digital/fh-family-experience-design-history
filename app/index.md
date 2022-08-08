@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: home
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "Family experience design history"
+description: "A history of the analysis, design and research from the Family experience service."
 pagination:
   data: collections.post
   reverse: true

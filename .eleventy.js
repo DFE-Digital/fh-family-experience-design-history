@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
     ],
     headingPermalinks: true,
     header: {
-      productName: 'Design history',
+      productName: 'Design history family experience',
       search: {
         indexPath: '/search.json',
         sitemapPath: '/sitemap'
