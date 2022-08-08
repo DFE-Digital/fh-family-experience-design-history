@@ -1,22 +1,74 @@
 # Design history for GOV.UK services
 
-A place for you to document your GOV.UK service designs.
+A place for us to document our service designs for the GOV.UK Family Experience service.
 
-<https://design-history.herokuapp.com>
+<https://family-exp-design-history.herokuapp.com/>
 
-## Purpose of this project
 
-This repository makes it easy to:
+## Set up
 
-* screenshot your designs
-* create pages of screenshots to document designs
-* document designs using the [GOV.UK Design System](https://design-system.service.gov.uk/)
-* print pages of designs
-* make designs shareable and linkable
+Clone this project using Git. New to Git? Here is more [information about cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-## Installation and getting started
+Use Terminal to navigate to the directory and run npm install.
 
-Read our guide on how to [set up a design history](https://design-history.herokuapp.com/set-up-a-design-history/).
+If the install is successful, run npm start. If there are erros, follow the prompts to debug then.
+
+Follow the prompts in Terminal to open the design history in your browser. If the set up is successful it will be available at http://localhost:8080/.
+
+## Writing an entry
+
+Start with [the google docs template](https://docs.google.com/document/d/1Axk-IHSpwXuCzeopqvWbqwfRvKMqOU7WbSvC8PHeawg/edit?usp=sharing)
+
+Get your entry reviewed by your peers.
+
+
+## Adding an entry to the design history
+
+Duplicate an existing entry. You will find them in the app /posts directory.
+
+Give the .md file a unique name and date it to reflect when the work was done.
+
+Once you have finished adding the content of the post, check it looks ok in your browser at http://localhost:8080/.
+
+Raise a pull request. Here is more [information about pull requests.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+Get the pull request reviewed by a peer.
+
+Once the pull request is approved, merge it.
+
+## Adding images
+
+Take decent screen captures of your work.
+
+Optimise the image file sizes using [TinyPNG.](https://tinypng.com/)
+
+Create a directory for the images in /images.
+
+The directory name needs to match your post name (besides the date).
+
+Use the image macro to include an image in your post.
+
+With caption:
+
+```
+{{ appFigure({
+  image: {
+    file: "file-name.png",
+    alt: "A description of the image"
+  },
+  caption: "An optional caption"
+}) }}
+```
+
+Without caption:
+
+```
+{{ appFigure({
+  image: {
+    file: "file-name.png",
+    alt: "A description of the image"
+  }
+}) }}
+```
 
 ## Example design histories
 
@@ -32,4 +84,4 @@ Read our guide on how to [set up a design history](https://design-history.heroku
 
 ## Technical notes
 
-The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.dev) static site generator.
+The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Heroku](https://www.heroku.com/) 
