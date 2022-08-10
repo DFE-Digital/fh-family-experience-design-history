@@ -1,5 +1,5 @@
 ---
-title: My new posttttt
+title: My new post
 description: example
 date: 2022-08-08
 ---
