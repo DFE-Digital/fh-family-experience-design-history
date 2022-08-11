@@ -1,8 +1,11 @@
 ---
-title: My new post
-description: example
+title: Alpha example 
+description: What we did
 date: 2022-08-08
 ---
 
-This is an example of a standard design history post – it begins with a preamble about the design and ends with a list of screenshots.
+blah blah
 
+blah
+
+blah
