@@ -68,7 +68,16 @@ Without caption:
     alt: "A description of the image"
   }
 }) }}
+
 ```
+
+# This page was generated
+After screenshots were saved to the app/images/example-post directory, [this page](https://github.com/x-govuk/govuk-design-history/pull/11/commits/473f5aca5d978a3d18ac188b98c6c8ef6c000713) was generated using the following command:
+
+```
+node scripts/generate.js example-post
+```
+[Read the guide on how to use this script](https://design-history.herokuapp.com/generate-a-page-of-screenshots/#generate-a-page-of-screenshots-from-a-folder-of-images)
 
 ## Example design histories
 
