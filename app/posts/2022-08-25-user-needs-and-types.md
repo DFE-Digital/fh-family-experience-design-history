@@ -1,6 +1,5 @@
 ---
-  title: User needs
-  description: User needs.
+  title: User needs and user types
   date: 2022-08-25
 ---
 
@@ -112,4 +111,66 @@
       8. As a parent/carer, I need to know that<b> I am not alone</b> and what I am experiencing is normal.
     </p>
   </div>
+</div>
+
+
+
+## User types
+
+<div class="govuk-tabs" data-module="govuk-tabs">
+  <h2 class="govuk-tabs__title">
+    Personas
+  </h2>
+  <ul class="govuk-tabs__list">
+    <li class="govuk-tabs__list-item govuk-tabs__list-item--selected">
+      <a class="govuk-tabs__tab" href="#past-day">
+        The Disheartened
+      </a>
+    </li>
+    <li class="govuk-tabs__list-item">
+      <a class="govuk-tabs__tab" href="#past-week">
+        The Adrift
+      </a>
+    </li>
+    <li class="govuk-tabs__list-item">
+      <a class="govuk-tabs__tab" href="#past-month">
+        The Researcher
+      </a>
+    </li>
+  </ul>
+
+  <div class="govuk-tabs__panel" id="past-day">
+    <h2 class="govuk-heading-l">The Disheartened</h2>
+      <ul class="govuk-list govuk-list--bullet">
+        <li>Has reached a brick wall when trying to find support and advice.</li>
+        <li>Had been actively searching for support, but has either been dismissed by professionals, or cannot find any services/support 
+        suitable for their specific issue.</li>   
+        <li>Feels anxious, frustrated, alone.</li>
+        <li>Likely to feel mistrust of professionals, authorities, and support.</li>
+        <li>Still needs and wants support, but just doesn’t know where else to look and doesn’t have the energy to continue searching.</li>
+      </ul>
+  </div>
+
+  <div class="govuk-tabs__panel govuk-tabs__panel--hidden" id="past-week">
+    <h2 class="govuk-heading-l">The Adrift</h2>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Uncertain if they’re doing the right thing for themselves and their children.</li>
+      <li>Doesn’t know where to go for support, or where to start looking for help and advice.</li>
+      <li>Feels anxious, worried, alone, and concerned about others judging them and their parenting.</li>  
+      <li>Actively trying to find support in their own networks, i.e. family, friends, and trying to
+      find other parents who are going through the same thing so that they can seek validation.</li> 
+      <li>Wants reassurance that they’re doing the right thing.</li> 
+    </ul>      
+  </div>
+
+  <div class="govuk-tabs__panel govuk-tabs__panel--hidden" id="past-month">
+    <h2 class="govuk-heading-l">The Researcher</h2>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Proactively and frequently seeking out support, services, information, and guidance, even if they’re not currently experiencing a concern or issue.</li>
+      <li>Likely to be a part of various groups and networks for support and sharing experiences.</li>
+      <li>Feeling motivated and driven.</li>
+      <li>Seeking further sources of information and support.</li>    
+    </ul>  
+  </div>
+  
 </div>
