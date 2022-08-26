@@ -140,7 +140,7 @@
   </ul>
 
   <div class="govuk-tabs__panel" id="past-day">
-    <h2 class="govuk-heading-l">The Disheartened</h2>
+    <h2 class="govuk-heading-m">The Disheartened</h2>
       <ul class="govuk-list govuk-list--bullet">
         <li>Has reached a brick wall when trying to find support and advice.</li>
         <li>Had been actively searching for support, but has either been dismissed by professionals, or cannot find any services/support 
@@ -152,7 +152,7 @@
   </div>
 
   <div class="govuk-tabs__panel govuk-tabs__panel--hidden" id="past-week">
-    <h2 class="govuk-heading-l">The Adrift</h2>
+    <h2 class="govuk-heading-m">The Adrift</h2>
     <ul class="govuk-list govuk-list--bullet">
       <li>Uncertain if they’re doing the right thing for themselves and their children.</li>
       <li>Doesn’t know where to go for support, or where to start looking for help and advice.</li>
@@ -164,7 +164,7 @@
   </div>
 
   <div class="govuk-tabs__panel govuk-tabs__panel--hidden" id="past-month">
-    <h2 class="govuk-heading-l">The Researcher</h2>
+    <h2 class="govuk-heading-m">The Researcher</h2>
     <ul class="govuk-list govuk-list--bullet">
       <li>Proactively and frequently seeking out support, services, information, and guidance, even if they’re not currently experiencing a concern or issue.</li>
       <li>Likely to be a part of various groups and networks for support and sharing experiences.</li>
