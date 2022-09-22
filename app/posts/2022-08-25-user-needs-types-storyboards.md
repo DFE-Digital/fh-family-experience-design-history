@@ -1,6 +1,10 @@
 ---
-  title: User needs and user types
+  title: User needs, types and storyboards
   date: 2022-08-25
+  screenshots:
+    items:
+      - text: "A storyboard about finding local family hub"
+        src: storyboard_family_hub.png
 ---
 
 
@@ -174,3 +178,14 @@
   </div>
   
 </div>
+
+
+<p>A storyboard is a series of sketches that visually convey how a user engage in
+an activity that involves the technology that is being developed.</p>
+<p>Storyboards help to think more deeply about:</p>
+<ul class="govuk-list govuk-list--bullet">
+  <li>environment where the the system is used</li>
+  <li>physical constrains (space where it used)</li>
+  <li>user’s motivation and emotions</li>
+  <li>relationships among multiple people</li>
+</ul>
