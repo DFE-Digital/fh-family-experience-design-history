@@ -4,12 +4,24 @@
   date: 2022-09-22
   screenshots:
     items:
+    - text: "Family hub user flow"
+      src: family-hub-user-flow.png
     - text: "Home page MVP 1"
       src: home-page-mvp1.png
     - text: "Enter the postcode screen with a validation message example"
       src: enter-postcode-mvp1.png
     - text: "Family hub results screen example"
       src: results-screen-mvp1.jpg
+    - text: "Services and groups user flow"
+      src: services-and-groups-user-flow.png
+    - text: "Enter postcode"
+      src: find-services-or-groups-enter-postcode.jpg
+    - text: "Choose category of services"
+      src: what-type-of-service-would-you-like.jpg
+    - text: "Choose sub-category"
+      src: choose-sub-category.jpg
+    - text: "Results page with filters"
+      src: results-page.jpg
 ---
 
 ## MVP version 1 for testing
