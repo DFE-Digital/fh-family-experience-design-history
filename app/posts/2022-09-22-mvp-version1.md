@@ -7,7 +7,7 @@
     - text: "Family hub user flow"
       src: family-hub-user-flow.png
     - text: "Home page MVP 1"
-      src: home-page-mvp1.png
+      src: home_page.png
     - text: "Enter the postcode screen with a validation message example"
       src: enter-postcode-mvp1.png
     - text: "Family hub results screen example"
