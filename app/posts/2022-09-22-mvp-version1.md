@@ -1,7 +1,7 @@
 ---
   title: MVP version 1 for testing
   description: How we have designed our first MVP prototype for testing.
-  date: 2022-09-22
+  date: 2022-09-22 
   screenshots:
     items:
     - text: "Family hub user flow"
@@ -46,6 +46,23 @@ We have tried to strike a balance. We don't distract users with a policy-driven 
 
 We hope this will help users pick one search or the other and be able to find the information they need. We will see how this goes in user testing soon.
 
+### How we added caveats
+
+We decided to test how users will respond to some caveats on the search pages, under the 'Enter postcode' boxes. For example, the caveats on the search page for services and groups reads: 
+
+'As this service is new, not all local authority services will be listed. If there are no services or groups listed in your area, you will be signposted to your council website. Some services are only available to local residents.'
+
+### How we drafted the content for listings
+
+We already had an existing user journey focused on infant feeding. We added a second user journey for testing, where the user searches for help with a child's behaviour and sees a new listings page with services for behaviour support.
+
+The content used for all the directory listings in the prototype so far is sourced from desk research into Salford's actual family hubs and services wherever possible. 
+
+In some cases, we have had to simplify information for MVP. For example, where in real life there is only an online contact form or no email address to contact a service, we have made up a dummy email address. Or where a service takes place in real life across a complex range of locations, online and offline, at different times and in different ways, we have made up simpler dummy information - as we can only display one address and 'service' for each listing at this time. 
+
+Where Salford doesn't appear to offer something we think users might reasonably expect to find in a search result during testing, we have made up a service based on what another LA family hub offers - for example, a behaviour support workshop for parents - using dummy contact details.
+
+
 ### Other updates we have made
 
 We have:
@@ -54,8 +71,8 @@ We have:
 *	added blank postcode and category error messages
 *	decided to use the term ‘infant feeding’ not ‘breastfeeding’ - policy use 'infant feeding' and it seems more inclusive, but we will see what users say in testing
 * decided not to flag up childcare - which is not part of the family hubs service - for now (it wasn’t a big issue for users in Alpha - we will test without it initially)
-* decided to test a caveat on the homepage: ‘As this service is new, not all local authority services will be listed’
 * made the 'bad journey' pages more consistent
+* made the search pages more consistent
 
 
 
