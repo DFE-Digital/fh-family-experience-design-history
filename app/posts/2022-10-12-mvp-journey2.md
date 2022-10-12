@@ -1,7 +1,13 @@
 ---
   title: MVP journey 2 for testing
   description: How we have designed our second MVP prototype for testing.
-  date: 2022-10-12 
+  date: 2022-10-12
+  screenshots:
+    items:
+    - text: "Screen flow MVP version 1"
+      src: mvp1-min.png
+    - text: "Screen flow MVP version 2"
+      src: mvp2-min.png  
   
 ---
 
