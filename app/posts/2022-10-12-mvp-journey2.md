@@ -7,7 +7,15 @@
     - text: "Screen flow MVP version 1"
       src: mvp1-min.png
     - text: "Screen flow MVP version 2"
-      src: mvp2-min.png  
+      src: mvp2-min.png 
+    - text: "Home page MVP version 2"
+      src: home-page.jpg 
+    - text: "Categories page MVP version 2"
+      src: categories.jpg 
+    - text: "Subcategories page MVP version 2"
+      src: subcategories.jpg 
+    - text: "Result page MVP version 2"
+      src: results-page.jpg       
   
 ---
 
