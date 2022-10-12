@@ -1,5 +1,5 @@
 ---
-  title: MVP version 1 for testing
+  title: MVP journey 1 for testing
   description: How we have designed our first MVP prototype for testing.
   date: 2022-09-22 
   screenshots:
@@ -24,19 +24,19 @@
       src: results-page.jpg
 ---
 
-## MVP version 1 for testing
+## MVP journey 1 for testing
 
-### MVP versions 1 and 2
+### MVP journeys 1 and 2
 
 One big design question for the team right now is: should searches for family hubs and services/groups be separated? Do users see a difference between these and do they care about the difference? 
 
-For the last few weeks we have focused on a coded prototype (MVP version 1), in which users can choose on the homepage between searching for a family hub and searching for services and groups.
+For the last few weeks we have focused on a coded prototype (MVP journey 1), in which users can choose on the homepage between searching for a family hub and searching for services and groups.
 
-We plan next to build and test a prototype (MVP version 2) in which the search for family hubs and services/groups are integrated into one single search.
+We plan next to build and test a prototype (MVP journey 2) in which the search for family hubs and services/groups are integrated into one single search.
 
 We will test both versions and see what users prefer.
 
-### How we have designed MVP 1
+### How we have designed MVP journey 1
 
 We have redrafted content from Alpha throughout, including the homepage, search pages, results pages and bad journeys. 
 
