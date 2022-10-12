@@ -33,9 +33,9 @@ The reasoning behind journey 2 is that users don't need to differentiate between
 
 A key part was rewriting the homepage content. 
 
-User research from testing journey 1 had found that users weren't clear about what a family hub is and why they would search for one as opposed to the other. So we tried to explain more clearly what family hubs offer as well as services/groups. For example, we have explained family hubs as a way for people to 'drop in, meet other families and find out what's available in your area'.
+User research from testing journey 1 found that users weren't clear about what a family hub is and why they would search for one as opposed to a specific service. Users didn't choose to search for a family hub, and usually chose to search for a service. So we tried to explain more clearly what family hubs offer as well as services/groups. For example, we have explained family hubs as a way for people to 'drop in, meet other families and find out what's available in your area'.
 
-Arguably though, users may not care or need to know about the difference between family hubs and services, so we may well find we don't need to explain the difference at the start of the user journey. The challenge will be balancing this with needing to explain what a family hub is somewhere, so users understand the term. After all, this is a 'family hubs' service.
+Arguably though, users may not care or need to know about the difference between family hubs and services. And they may prefer to search for a service or a range of services to meet their needs, not focusing on a 'family hub'. So we may well find we don't need to differentiate between family hubs and services at the start of the user journey. However we will still need to explain what a family hub is somewhere, so users understand the term. After all, this is a 'family hubs' service.
 
 Who is eligible for the service and examples of what you can find through the service were moved below the search box. In future we may need to move them back up, because these are important - and we may put some of the information explaining hubs, services and groups further down, elswehere or remove it. 
 
