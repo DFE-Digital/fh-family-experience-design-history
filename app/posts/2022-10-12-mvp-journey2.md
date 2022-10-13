@@ -33,11 +33,11 @@ The reasoning behind journey 2 is that users don't need to differentiate between
 
 A key part was rewriting the homepage content. 
 
-User research from testing journey 1 found that users weren't clear about what a family hub is and why they would search for one as opposed to a specific service. Users didn't choose to search for a family hub, and usually chose to search for a service. So we tried to explain more clearly what family hubs offer as well as services/groups. For example, we have explained family hubs as a way for people to 'drop in, meet other families and find out what's available in your area'.
+User research from testing journey 1 found that users weren't clear about what a family hub is and why they would search for one as opposed to a specific service. Users didn't choose to search for a family hub, and usually chose to search for a service. So we tried to explain more clearly what family hubs offer as well as services/groups. For example, we have explained family hubs as a way for people to 'drop in, meet other families and find out what's available in your area'. 
 
-Arguably though, users may not care or need to know about the difference between family hubs and services. And they may prefer to search for a service or a range of services to meet their needs, not focusing on a 'family hub'. So we may well find we don't need to explain or differentiate between family hubs and services at the start of the user journey - this may just confuse users. However we will still need to explain what a family hub is somewhere in the service, so users understand the term. After all, this is a 'family hubs' service.
+We aren't sure if differentiating between family hubs and services here may still confuse users. Depending on UR findings, we can address this in future iterations.
 
-Who is eligible for the service and examples of what you can find through the service were moved below the search box. In future we may need to move them back up, because these are important - and we may put some of the information explaining hubs, services and groups further down, elswehere or remove it. 
+Who is eligible for the service and examples of what you can find through the service were moved below the search box, to get that box higher up the page.
 
 We created a new name and H2 heading for the service: 'Find local family support'. It seems better not to mention family hubs before the user knows what they are. Our assumption is that 'Find local family support' explains what the service actually offers better.
 
