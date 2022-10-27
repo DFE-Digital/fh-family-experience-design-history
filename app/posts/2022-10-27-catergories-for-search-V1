@@ -1,0 +1,23 @@
+---
+  title: Categories for search V1
+  description: How we arrived at the first set of catergories for testing.
+  date: 2022-10-27
+  screenshots:
+    items:      
+  
+---
+
+## Categories for search V1
+
+Up to this point, we have been testing an 'example' list of categories with users based on the types of services available to families and children identified through DfE guidance on Family hubs and user research. 
+
+The Business analysts have worked with the service listing data from our partner LAs to help identify a categories list for our backend that is based on the Annex F service list detailing what local authorities should offer as part of a family hub. 
+
+Whilst the back end list will drive data capture to populate the directory service listings, we need to use this list to support the presentation of service listings. 
+
+We have decide to test an initial list of level 1 and level 2 categories in MVP version 4. These are based on the card sorting activity and playback conducted by the user researchers across family experience and information sharing projects. 
+
+We will allign the front end categories on information sharing and family experience until we identifiy a need to diversify. We have already identified a number of catergories we anticipate will need either further dscriptions or potentially a new name to help with user understanding, though we are not planning to make these changes until we have further data analysis from the BAs on our LA data and have the results from the first round of testing. 
+
+
+
