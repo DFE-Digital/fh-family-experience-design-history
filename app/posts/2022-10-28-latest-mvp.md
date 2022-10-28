@@ -21,7 +21,15 @@ This is because user research UR found some users may find an emphasis on family
 
 We removed the category pages with their radio buttons. Instead, users now enter their postcode and go straight to the results page, where they select categories and sub categories using checkboxes. This way they can choose multiple sub categories if they want.
 
-[Laura to add more]
+Up to this point, we have been testing an 'example' list of categories with users based on the types of services available to families and children identified through DfE guidance on family hubs and user research.
+
+The Business analysts have worked with the service listing data from our partner LAs to help identify a categories list for our back end that is based on the [Annex F service list detailing what local authorities should offer as part of a family hub](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1096773/Annex_F_-_family_hub_service_expectations.pdf).
+
+Whilst the back end list will drive data capture to populate the directory service listings in the front end, we need to use this list to support the presentation of service listings.
+
+We have decided to test an initial list of level 1 and level 2 categories in MVP version 4. These are based on the card sorting activity and playback conducted by the user researchers across family experience and information sharing projects.
+
+We will align the front end categories on information sharing and family experience until we identify a need to diversify. We have already identified a number of categories we anticipate will need either further descriptions or potentially a new name to help with user understanding, though we are not planning to make these changes until we have further data analysis from the BAs on our LA data and have the results from the first round of testing.
 
 ### Results page listings and filters
 
