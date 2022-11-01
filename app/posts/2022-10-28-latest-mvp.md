@@ -2,7 +2,16 @@
   title: Our latest MVP
   description: How we have designed our MVP prototype for build.
   date: 2022-10-28
- 
+  screenshots:
+    items:
+    - text: "Start page for build prototype"
+      src: Start-MVP-4.png
+    - text: "Enter postcode page"
+      src: postcode-entry-MVP-4.png
+    - text: "Search through level 2 categories"
+      src: search-level-2-categories.png
+    - text: "Initial catergories for front end testing"
+      src: search-level-2-categories 
 ---
 
 ## How we have designed our MVP for build
