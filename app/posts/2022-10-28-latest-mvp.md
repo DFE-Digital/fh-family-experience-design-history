@@ -11,7 +11,7 @@
     - text: "Search through level 2 categories"
       src: search-level-2-categories.png
     - text: "Initial catergories for front end testing"
-      src: search-level-2-categories 
+      src: categories-MVP-4-test-1.png 
 ---
 
 ## How we have designed our MVP for build
