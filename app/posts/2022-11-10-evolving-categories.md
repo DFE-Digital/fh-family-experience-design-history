@@ -1,6 +1,6 @@
 ---
   title: Evolving Categories
-  description: Add a description
+  description: Adapting level 1 and 2 categories based on user needs
   date: 2022-11-10
 ---
 ### Using Annex F as a base
