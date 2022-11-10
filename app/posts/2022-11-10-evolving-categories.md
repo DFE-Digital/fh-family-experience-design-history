@@ -26,7 +26,7 @@ We ran card sorting exercises with both family experience and information sharin
 ### Adapting level 1 and 2 categories based on user needs
 We took the approach to make as few changes as possible, and only deviate where we identified a need to do so. The naming of some level 2 categories may need to change depending on further user testing findings.
 
-### Adding SEND categories and mental health
+### Adding special educational needs and disabilities (SEND) categories and mental health
 We have taken the same approach when adding SEND categories, and we are using the list identified in the [DfE SEND code of practice guidance](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25). We will test this with users, alongside the other categories, during  private beta. Mental health subcategories have been challenging to identify through the BA work and therefore we will include a level 2 category under health.
 
 ### Can we use a single category list?
