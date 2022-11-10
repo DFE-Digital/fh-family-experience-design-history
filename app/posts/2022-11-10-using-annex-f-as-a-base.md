@@ -10,7 +10,7 @@
 ### Business Analysts (BAs) mapping
 
 BAs have mapped the services data from our partner local authorities and looked at a number of other local authority websites to identify how they categorise services on their websites.
-They produced a list of level 1 and level 2 categories.
+They produced a list of <b>level 1</b> and <b>level 2</b> categories.
 We then ran a refinement activity to ensure the categories listed should be part of the service we are providing. For example we removed childcare because it is out of scope for this service.
 
 ### Testing the level 2 categories with users
