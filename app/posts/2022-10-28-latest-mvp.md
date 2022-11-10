@@ -32,7 +32,7 @@ We removed the category pages with their radio buttons. Instead, users now enter
 
 Up to this point, we have been testing an 'example' list of categories with users based on the types of services available to families and children identified through DfE guidance on family hubs and user research.
 
-The business analysts (BAs) have worked with the service listing data from our local authority partners to help identify a list of catergories for our back end that is based on the [Annex F service list](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1096773/Annex_F_-_family_hub_service_expectations.pdf) detailing what local authorities should offer as part of a family hub.
+The business analysts (BAs) have worked with the service listing data from our local authority partners to help identify a list of catergories for our back end that is based on the [Annex F service list](https://www.gov.uk/government/publications/family-hubs-and-start-for-life-programme-local-authority-guide) detailing what local authorities should offer as part of a family hub.
 
 While the back end list will drive data capture to populate the directory service listings in the front end, we need to use this list to support the presentation of service listings.
 

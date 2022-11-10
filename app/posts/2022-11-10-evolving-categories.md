@@ -1,16 +1,18 @@
 ---
-  title: Evolving Categories
+  title: Evolving categories
   description: Adapting level 1 and 2 categories based on user needs.
   date: 2022-11-10
 ---
 ### Using Annex F as a base
-[Annex F](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1096773/Annex_F_-_family_hub_service_expectations.pdf) lists the core services DfE expects local authorities to deliver through their family hubs. It also sets out the minimum expectations of the services that are not receiving additional investment through this programme.
+[Annex F](https://www.gov.uk/government/publications/family-hubs-and-start-for-life-programme-local-authority-guide) lists the core services DfE expects local authorities to deliver through their family hubs. It also sets out the minimum expectations of the services that are not receiving additional investment through this programme.
 
 
-### Business Analysts (BAs) mapping
+### Business analysts (BAs) mapping
 
 BAs have mapped the services data from our partner local authorities and looked at a number of other local authority websites to identify how they categorise services on their websites.
-They produced a list of <b>level 1</b> and <b>level 2</b> categories.
+
+They produced a list of level 1 and level 2 categories.
+
 We then ran a refinement activity to ensure the categories listed should be part of the service we are providing. For example we removed childcare because it is out of scope for this service.
 
 ### Testing the level 2 categories with users
@@ -29,4 +31,5 @@ We have taken the same approach when adding SEND categories, and we are using th
 
 ### Can we use a single category list?
 We are looking at whether we can now use [a single category list](https://docs.google.com/spreadsheets/d/1fnE8jZpjfYDxcB1L-g2_7evGs9jUv74FxBYoNS2XjAA/edit#gid=157352365) for both the front and back end for private beta.
+
 The next steps are to agree if we can use a single set of categories and get them locked down for MVP.
